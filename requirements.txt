@@ -1,0 +1,15 @@
+numpy==1.26.4
+albumentations==2.0.8
+opencv-python-headless==4.9.0.80
+matplotlib==3.10.3
+scikit-learn==1.7.0
+scikit-image==0.25.2
+torch==2.2.2+cu118
+torchvision==0.17.2+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+seaborn==0.13.2
+pandas==2.3.0
+tensorboard==2.13.0
+
+torchaudio==2.2.2+cu118

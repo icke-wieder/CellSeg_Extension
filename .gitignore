@@ -1,0 +1,43 @@
+# ---- Python spezifisch ----
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Logs
+*.log
+
+# IDE / Editor Dateien
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- Bilddateien (deine Regeln) ----
+*.png
+*.jpg
+*.jpeg
+*.PNG
+*.JPG
+*.JPEG
+
+# ---- Results Dateien / Ordner ----
+*results*
