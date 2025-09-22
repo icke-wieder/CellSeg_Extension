@@ -41,3 +41,5 @@ dist/
 
 # ---- Results Dateien / Ordner ----
 *results*
+*entire_script*
+*.gradio*
