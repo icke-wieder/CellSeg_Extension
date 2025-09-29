@@ -43,3 +43,4 @@ dist/
 *results*
 *entire_script*
 *.gradio*
+*image_data.csv
