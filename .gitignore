@@ -39,8 +39,12 @@ dist/
 *.JPG
 *.JPEG
 
+# ---- Dateien
+*.csv
+
 # ---- Results Dateien / Ordner ----
 *results*
 *entire_script*
 *.gradio*
 *image_data.csv
+*_Adam.ipynb
